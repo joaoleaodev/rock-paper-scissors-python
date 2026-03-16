@@ -59,7 +59,6 @@ This project helped me practice:
       <a href="https://github.com/seu-usuario">
         <img src="joaoleao.png" width="150px;"
         <br />
-        <sub><b>João</b></sub>
       </a>
     </td>
     <td>
