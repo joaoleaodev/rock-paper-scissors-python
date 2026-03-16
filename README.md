@@ -56,7 +56,7 @@ This project helped me practice:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/seu-usuario">
+      <a href="https://github.com/joaoleaodev">
         <img src="joaoleao.png" width="150px;"
         <br />
       </a>
@@ -68,7 +68,7 @@ This project helped me practice:
       <p>
         Desenvolvedor focado em <b>Back-end (Java & Python)</b> e soluções eficientes.
       </p>
-      <a href="https://www.linkedin.com/in/seu-perfil">
+      <a href="https://www.linkedin.com/in/joaoleaodev">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
     </td>
