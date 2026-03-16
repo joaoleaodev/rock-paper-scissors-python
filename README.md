@@ -47,9 +47,9 @@ This project helped me practice:
 
 ## 👨‍💻 Author
 
-João Leão  
+**João Vitor Pontes Leão**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoleaodev)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaoleaodev)
 
 ---
 
