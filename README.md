@@ -48,7 +48,7 @@ This project helped me practice:
 ## 🎥 Project Preview
 
 <p align="center">
-  <img src="rps.gif" alt="Project Preview" width="100%">
+  <img src="archives/rps.gif" alt="Project Preview" width="100%">
 </p>
 
 ## 👨‍💻 Author
@@ -57,7 +57,7 @@ This project helped me practice:
   <tr>
     <td align="center">
       <a href="https://github.com/joaoleaodev">
-        <img src="joaoleao.png" width="150px;"
+        <img src="archives/joaoleao.png" width="150px;"
         <br />
       </a>
     </td>
