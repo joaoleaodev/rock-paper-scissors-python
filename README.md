@@ -47,7 +47,7 @@ This project helped me practice:
 
 ## 🎥 Project Preview
 
-![Rock Paper Scissors](rps.gif)
+![Game Demo](rps.gif)
 
 ## 👨‍💻 Author
 
