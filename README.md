@@ -57,7 +57,7 @@ This project helped me practice:
   <tr>
     <td align="center">
       <a href="https://github.com/seu-usuario">
-        <img src="joaoleao.png" width="150px;" alt="Foto do João"/>
+        <img src="joaoleao.png" width="150px;"
         <br />
         <sub><b>João</b></sub>
       </a>
