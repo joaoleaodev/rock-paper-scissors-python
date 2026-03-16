@@ -29,9 +29,9 @@ python main.py
 
 ## 🎮 Game Rules
 
-- `R` = Rock  
-- `P` = Paper  
-- `S` = Scissors  
+- `r` = Rock  
+- `p` = Paper  
+- `s` = Scissors  
 
 First player to reach **2 points wins the game**.
 
