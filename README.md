@@ -45,6 +45,10 @@ This project helped me practice:
 - Random choices
 - Input validation
 
+## 🎥 Project Preview
+
+![Rock Paper Scissors](rps.gif)
+
 ## 👨‍💻 Author
 
 **João Vitor Pontes Leão** 
