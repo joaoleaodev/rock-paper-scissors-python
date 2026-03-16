@@ -47,7 +47,8 @@ This project helped me practice:
 
 ## 👨‍💻 Author
 
-**João Vitor Pontes Leão** [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaoleaodev)
+**João Vitor Pontes Leão** 
+- LinkedIn: https://www.linkedin.com/in/joaoleaodev
 
 ---
 
