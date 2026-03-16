@@ -55,7 +55,7 @@ This project helped me practice:
   <tr>
     <td align="center">
       <a href="https://github.com/joaoleaodev">
-        <img src="./caminho/para/sua/foto-estudio.jpg" width="150px;" alt="Foto do João"/>
+        <img src=".https://media.licdn.com/dms/image/v2/D4D03AQEu-ULzahFuhA/profile-displayphoto-crop_800_800/B4DZzpcd3ZGQAI-/0/1773443080128?e=1775088000&v=beta&t=fJ2alTBagKL4YsjuQxkZlsALCoh5ubkzLRXHtHK_0G8" width="150px;" alt="Foto do João"/>
         <br />
         <sub><b>João</b></sub>
       </a>
