@@ -51,8 +51,26 @@ This project helped me practice:
 
 ## 👨‍💻 Author
 
-**João Vitor Pontes Leão** 
-- LinkedIn: https://www.linkedin.com/in/joaoleaodev
+<table border="0">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/joaoleaodev">
+        <img src="./caminho/para/sua/foto-estudio.jpg" width="150px;" alt="Foto do João"/>
+        <br />
+        <sub><b>João</b></sub>
+      </a>
+    </td>
+    <td>
+      <p>
+        Graduando em Engenharia de Software pela <b>FIAP</b>. 🚀 <br>
+        Focado em desenvolvimento <b>Back-end</b> com Java e Python.
+      </p>
+      <a href="https://www.linkedin.com/in/joaoleaodev">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
