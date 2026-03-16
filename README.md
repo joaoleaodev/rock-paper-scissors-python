@@ -47,7 +47,9 @@ This project helped me practice:
 
 ## 🎥 Project Preview
 
-![Rock Paper Scissors Demo](rps.gif)
+<p align="center">
+  <img src="rps.gif" alt="Project Preview" width="100%">
+</p>
 
 ## 👨‍💻 Author
 
