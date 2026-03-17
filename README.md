@@ -25,7 +25,7 @@ git clone https://github.com/joaoleaodev/rock-paper-scissors-python.git
 cd rock-paper-scissors-python
 
 3. Run the program
-python main.py
+python rock_paper_scissors.py
 
 ## 🎮 Game Rules
 
